@@ -1,7 +1,7 @@
 # Statistic API
 StatisticAPI is a version compatible API to retrieve Minecraft statistics for Bukkit based servers, including offline players.
 
-It works on 1.8-1.16, though it isn't needed unless you plan on supporting 1.14 or below, since OfflinePlayer statistic getting was added to the Bukkit API.
+It works on 1.8-1.16, though it isn't needed unless you plan on supporting 1.14 or below, since OfflinePlayer statistic getting was added to the Bukkit API in 1.15.
 
 ## Usage
 
